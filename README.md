@@ -29,6 +29,10 @@ Mas documentación para leer :)
 
 [Cómo crear una galería de NFT](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
 
+Funciona en la red de prueba de OpenSea
+
+![](images/nft-gallery.jpg)
+
 [Cómo crear un NFT dinámico](https://docs.alchemy.com/docs/connect-apis-to-your-smart-contracts-using-chainlink)
 
 [Cómo crear una dApp de Staking](https://docs.alchemy.com/docs/how-to-build-a-staking-dapp)
